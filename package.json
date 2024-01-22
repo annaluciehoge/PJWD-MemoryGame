@@ -1,0 +1,27 @@
+{
+  "name": "jwd-onlinegame",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.2",
+    "bootstrap-icons": "^1.11.2",
+    "phaser": "^3.70.0",
+    "sass": "^1.69.5",
+    "stytch": "^9.1.0",
+    "vue": "^3.3.4",
+    "vue-confetti": "^2.3.0",
+    "vue-router": "^4.2.5",
+    "vue-toastification": "^2.0.0-rc.5",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "vite": "^4.4.5"
+  }
+}
